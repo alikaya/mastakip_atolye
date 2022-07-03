@@ -1,0 +1,1 @@
+Mastakip atölye uygulaması
